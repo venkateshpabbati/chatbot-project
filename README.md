@@ -29,8 +29,8 @@ chatbot-project
 
 1. Clone the repository:
    ```
-   git clone https://github.com/venkateshpabbati/chatbot.git
-   cd chatbot
+   git clone <repository-url>
+   cd chatbot-project
    ```
 
 2. Install the required dependencies:
